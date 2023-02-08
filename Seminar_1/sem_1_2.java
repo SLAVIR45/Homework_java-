@@ -2,6 +2,10 @@ package Homework.Seminar_1;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+
+//Реализуйте алгоритм сортировки пузырьком для сортировки массива
+
 public class sem_1_2 
 {
     public static void main(String[] args) 

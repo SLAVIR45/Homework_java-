@@ -3,6 +3,11 @@ package Homework.Seminar_1;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+// Заполните массив случайным числами и выведите максимальное, минимальное и среднее значение.
+// Для генерации случайного числа используйте метод Math.random(),
+// который возвращает значение в промежутке [0, 300].
+
 public class sem_1_1 {
     public static void main(String[] args) 
     {
